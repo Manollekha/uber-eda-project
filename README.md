@@ -81,10 +81,7 @@ This project performs Exploratory Data Analysis (EDA) on Uber ride request data 
 
 ---
 
-##  How to Run
 
-1. Clone the repo  
-2. Install dependencies: 
 
 
 
